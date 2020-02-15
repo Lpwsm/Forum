@@ -7,4 +7,7 @@
 ## 跟视频过程中遇到的问题
  1. js，css文件导入项目后  先重新启动软件 
  2. jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边)
- <img src="https://github.com/Lpwsm/Forum/blob/master/src/main/resources/static/img/readme1.PNG">
+
+![1](https://github.com/Lpwsm/Forum/blob/master/src/main/resources/static/img/readme1.PNG?raw=true)
+ 
+![2](img/readme2.PNG)
