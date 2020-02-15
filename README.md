@@ -9,5 +9,5 @@
  2. jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边)
 
 ![1](https://github.com/Lpwsm/Forum/blob/master/src/main/resources/static/img/readme1.PNG?raw=true)
- 
-![2](img/readme2.PNG)
+
+![2](https://github.com/Lpwsm/Forum/blob/master/src/main/resources/static/img/readme2.PNG?raw=true)
