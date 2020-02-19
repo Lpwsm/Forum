@@ -1,8 +1,8 @@
 package com.oldsix.community.Provider;
 
 import com.alibaba.fastjson.JSON;
-import com.oldsix.community.dto.AccessTokenDTO;
-import com.oldsix.community.dto.GithubUser;
+import com.oldsix.community.Dto.AccessTokenDTO;
+import com.oldsix.community.Dto.GithubUser;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 

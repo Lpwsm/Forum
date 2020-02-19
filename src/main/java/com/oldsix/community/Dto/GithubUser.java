@@ -1,4 +1,4 @@
-package com.oldsix.community.dto;
+package com.oldsix.community.Dto;
 
 public class GithubUser {
     private Long id;
